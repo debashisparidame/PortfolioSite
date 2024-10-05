@@ -54,8 +54,8 @@
 <h2>📫 Get in Touch:</h2>
 
 <ul>
-    <li><strong>Email</strong>: <a href="mailto:contact.dpofficial@gmail.com">debashis@example.com</a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/debashisparidame/">Debashis Parida on LinkedIn</a></li>
+    <li><strong>Email</strong>: <a href="mailto:contact.dpofficial@gmail.com">contact.dpofficial@gmail.com</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/debashisparidame/">LinkedIn Profile</a></li>
     <li><strong>GitHub</strong>: <a href="https://github.com/debashisparidame">GitHub Profile</a></li>
 </ul>
 
