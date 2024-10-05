@@ -41,7 +41,7 @@
 
 <p>You can check out the live version of my portfolio here:</p>
 
-<p>🔗 <a href="https://yourwebsite.com">Live Portfolio Website</a></p>
+<p>🔗 <a href="https://debashisportfolio.netlify.app/">Live Portfolio Website</a></p>
 
 <hr>
 
@@ -54,9 +54,9 @@
 <h2>📫 Get in Touch:</h2>
 
 <ul>
-    <li><strong>Email</strong>: <a href="mailto:debashis@example.com">debashis@example.com</a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/yourprofile">Debashis Parida on LinkedIn</a></li>
-    <li><strong>GitHub</strong>: <a href="https://github.com/yourgithub">GitHub Profile</a></li>
+    <li><strong>Email</strong>: <a href="mailto:contact.dpofficial@gmail.com">debashis@example.com</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/debashisparidame/">Debashis Parida on LinkedIn</a></li>
+    <li><strong>GitHub</strong>: <a href="https://github.com/debashisparidame">GitHub Profile</a></li>
 </ul>
 
 <hr>
